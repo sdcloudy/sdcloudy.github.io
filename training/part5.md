@@ -116,6 +116,7 @@ http://rogerdudler.github.io/git-guide/
 ##Most common git comands used in exercise
 
 `git`
+
 `checkout`
 `* clone`
 `* status`
