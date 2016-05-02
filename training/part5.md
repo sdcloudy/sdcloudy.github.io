@@ -113,12 +113,13 @@ e.g. git - the simple guide
 
 http://rogerdudler.github.io/git-guide/
 
-##Most common `git` comands used in exercise
+##Most common git comands used in exercise
 
-* `checkout`
-* `clone`
-* `status`
-* `diff`
-* `commit`
-* `log`
-* `blame`
+`git`
+`checkout`
+`* clone`
+`* status`
+`* diff`
+`* commit`
+`* log`
+`* blame`
