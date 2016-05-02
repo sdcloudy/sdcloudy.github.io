@@ -163,3 +163,6 @@ not requirements, not rules, but good ideas for success.
 PERIODIC TABLE OF DEVOPS TOOLS (V1)
 https://xebialabs.com/periodic-table-of-devops-tools/
 
+---
+
+<a href="https://xebialabs.com/periodic-table-of-devops-tools/"><img src="https://xebialabs.com/assets/files/infographics/periodic-table-of-devops.png" class="img-responsive" style="max-width:100%" /></a>
