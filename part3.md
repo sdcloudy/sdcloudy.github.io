@@ -157,3 +157,9 @@ Importances: Moderate. Helps prevent mistakes
 ## Best Practices
 
 not requirements, not rules, but good ideas for success.
+
+## DevOps Tools Overview
+
+PERIODIC TABLE OF DEVOPS TOOLS (V1)
+https://xebialabs.com/periodic-table-of-devops-tools/
+
