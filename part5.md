@@ -110,6 +110,7 @@ Back in the CLI, run: `git status`
 #git Tutorial Example
 
 e.g. git - the simple guide
+
 http://rogerdudler.github.io/git-guide/
 
 ##Most common git comands used in exercise
