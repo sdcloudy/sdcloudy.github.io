@@ -104,3 +104,17 @@ Back in the CLI, run: `git status`
 
 #$440 million loss...
 #in 45 minutes
+
+---
+
+#git Tutorial Example
+
+e.g. git - the simple guide
+http://rogerdudler.github.io/git-guide/
+
+##Most common git comands used in exercise
+
+* clone
+* status
+* diff
+* commit
