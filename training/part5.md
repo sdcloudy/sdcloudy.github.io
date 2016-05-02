@@ -113,7 +113,7 @@ e.g. git - the simple guide
 
 http://rogerdudler.github.io/git-guide/
 
-##Most common git comands used in exercise
+###Most common git comands used in exercise
 
 `git`
 
