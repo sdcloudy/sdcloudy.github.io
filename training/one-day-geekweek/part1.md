@@ -50,7 +50,7 @@
 
 ---
 
-i#ts all about the promises, baby.
+#it's all about the promises, baby.
 
 * Traditional Apps expect the infrastructure to make a strong reliability promise
 * Cloud Native Apps expect the infrastructure to make a strong scale promise
