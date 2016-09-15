@@ -1,4 +1,4 @@
-Things DevOps 'is':
+# Things DevOps 'is':
 
 * culture and operational model
 * focuses on fast feedback cycles
@@ -6,7 +6,7 @@ Things DevOps 'is':
 
 ---
 
-Things DevOps is not:
+# Things DevOps is not:
 
 * A group
 * A person
@@ -16,17 +16,17 @@ Things DevOps is not:
 
 ---
 
-Advantages:
+# Advantages:
 
 * 200x faster time to market
 * 2x goal achievement rate
 * 60x fewer failures
 
---- 
+---
 
 # Would you like that?
 
---- 
+---
 
 #thought so.
 
