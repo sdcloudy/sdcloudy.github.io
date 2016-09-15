@@ -1,4 +1,4 @@
-# Things DevOps 'is':
+#Things DevOps 'is':
 
 * culture and operational model
 * focuses on fast feedback cycles
@@ -6,7 +6,7 @@
 
 ---
 
-# Things DevOps is not:
+#Things DevOps is not:
 
 * A group
 * A person
@@ -16,7 +16,7 @@
 
 ---
 
-# Advantages:
+#Advantages:
 
 * 200x faster time to market
 * 2x goal achievement rate
@@ -24,7 +24,7 @@
 
 ---
 
-# Would you like that?
+#Would you like that?
 
 ---
 
@@ -32,11 +32,11 @@
 
 ---
 
-# So, Agile?
+#So, Agile?
 
 ---
 
-The Manifesto:
+#The Manifesto:
 
 * Individuals and interactions over processes and tools* Working software over comprehensive documentation* Customer collaboration over contract negotiation* Responding to change over following a plan.
 
@@ -50,7 +50,7 @@ The Manifesto:
 
 ---
 
-its all about the promises, baby.
+i#ts all about the promises, baby.
 
 * Traditional Apps expect the infrastructure to make a strong reliability promise
 * Cloud Native Apps expect the infrastructure to make a strong scale promise
