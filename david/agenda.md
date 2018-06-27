@@ -1,18 +1,24 @@
 class: center, middle
 
-# One Day DevOps / Agile / Cloud Native Geek Week
+# David Hanacek
 
-A single day, heavy duty, partially hands-on introduction to discussions around cloud native applications, the methods used to develop them, the ideas behind the architecture and some of the tools in use.
+An introduction to this session
 
 ---
 
-## Prework
+## Agenda
 
-(this is real prework - we will reference this stuff often, and you *will* fall behind)
+You asked for PPT. But everybody can do PPT.
 
-* Read The Phoenix Project, by Gene Kim
+* CV Presentation:  Highlight and Achievement
+* David‘s View on the DevOps Market
+* Customer Case
+
 * Install `git`: [Windows](https://git-scm.com/download/win) & [Mac](https://git-scm.com/download/mac)
 * Install `cf cli` [Windows](https://cli.run.pivotal.io/stable?release=windows64&source=github) & [Mac](https://cli.run.pivotal.io/stable?release=macosx64&source=github)
+
+
+
 
 ---
 
