@@ -8,12 +8,12 @@ An introduction to this session
 
 ## Agenda
 
-You asked for PPT. But everybody can do PPT.
+You asked for PPT. I couldn't resist to use something else.
+Let me explain.
 
 * CV Presentation:  Highlight and Achievement
 * David‘s View on the DevOps Market
 * Customer Case
-
 * Install `git`: [Windows](https://git-scm.com/download/win) & [Mac](https://git-scm.com/download/mac)
 * Install `cf cli` [Windows](https://cli.run.pivotal.io/stable?release=windows64&source=github) & [Mac](https://cli.run.pivotal.io/stable?release=macosx64&source=github)
 
